@@ -26,3 +26,22 @@
 
 - 대회 주최/주관 및 데이터 제공처에 감사드립니다.
 - 본 연구/구현은 공개 문서와 대회 제공 자료만을 활용했습니다.
+
+
+## Citation
+@misc{zhao2024doclayoutyoloenhancingdocumentlayout,
+      title={DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception}, 
+      author={Zhiyuan Zhao and Hengrui Kang and Bin Wang and Conghui He},
+      year={2024},
+      eprint={2410.12628},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.12628}, 
+}
+
+@article{wang2024mineru,
+  title={MinerU: An Open-Source Solution for Precise Document Content Extraction},
+  author={Wang, Bin and Xu, Chao and Zhao, Xiaomeng and Ouyang, Linke and Wu, Fan and Zhao, Zhiyuan and Xu, Rui and Liu, Kaiwen and Qu, Yuan and Shang, Fukai and others},
+  journal={arXiv preprint arXiv:2409.18839},
+  year={2024}
+}
