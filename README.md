@@ -17,7 +17,8 @@
 
 ## 📓 작동 원리 & 코드: notebooks/*.ipynb 참고
 
-<img width="874" height="1236" alt="page_3" src="https://github.com/user-attachments/assets/23420425-c5ec-4136-b557-a894a60ac5ba" /> ➡️ <img width="595" height="841" alt="page_3" src="https://github.com/user-attachments/assets/02b60482-1cfd-4a91-9736-e1467942c6e2" />
+<img width="480" height="700" alt="page_3" src="https://github.com/user-attachments/assets/23420425-c5ec-4136-b557-a894a60ac5ba" />
+<img width="480" height="700" alt="page_3" src="https://github.com/user-attachments/assets/02b60482-1cfd-4a91-9736-e1467942c6e2" />
 
 
 
