@@ -29,6 +29,8 @@
 
 
 ## Citation
+
+```bibtex
 @misc{zhao2024doclayoutyoloenhancingdocumentlayout,
       title={DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception}, 
       author={Zhiyuan Zhao and Hengrui Kang and Bin Wang and Conghui He},
@@ -45,3 +47,5 @@
   journal={arXiv preprint arXiv:2409.18839},
   year={2024}
 }
+
+```
